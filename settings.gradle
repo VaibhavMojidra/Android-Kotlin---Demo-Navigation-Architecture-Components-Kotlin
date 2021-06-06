@@ -1,0 +1,2 @@
+rootProject.name = "Navigation Architecture Kotlin"
+include ':app'
